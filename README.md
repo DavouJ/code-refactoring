@@ -15,7 +15,7 @@ SO THAT
 
 The following image shows the web application's intented appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](src/assets/images/davouj-github-io-code-refactoring-starter-.jpg)
 
 
 ## Table of Contents (Optional)
@@ -28,7 +28,7 @@ The following image shows the web application's intented appearance and function
 
 ## Installation
 
-Application deployed via the live GitHub URL: https://davouj.github.io/code-refactoring/starter/ .
+Application deployed via the live GitHub URL: https://davouj.github.io/code-refactoring/src/ .
 
 ## Usage
 

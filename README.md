@@ -77,7 +77,7 @@ SOFTWARE.
 
 ## Features
 
-Basic webpage, alt text hover feature.
+Basic webpage, alt text hover feature and page links.
 
 ## How to Contribute
 
@@ -85,3 +85,4 @@ No contributions.
 
 ## Tests
 
+No tests

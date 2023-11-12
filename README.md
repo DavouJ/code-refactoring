@@ -13,10 +13,6 @@ SO THAT
 - The codebase follows accessibility standards
 - The Horiseon site is optimized for search engines
 
-The following image shows the web application's intented appearance and functionality:
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](src/assets/images/davouj-github-io-code-refactoring-starter-.jpg)
-
 
 ## Table of Contents (Optional)
 
@@ -32,7 +28,15 @@ Application deployed via the live GitHub URL: https://davouj.github.io/code-refa
 
 ## Usage
 
-Marketing agency webpage.
+A marketing agency webpage.
+
+The following image shows the web application's appearance after the stated criteria:
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](src/assets/images/davouj-github-io-code-refactoring-starter-.jpg)
+
+
+Selecting any of the three icons located in the navigation bar will direct the user to the matching article located on the webpage.
+![Example.](src/assets/images/davouj-github-io-code-refactoring-starter- copy.jpg)
 
 ## Credits
 
@@ -66,7 +70,8 @@ SOFTWARE.
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+![badmath](https://img.shields.io/badge/HTML-66.8%)
+![badmath](https://img.shields.io/badge/CSS-33.2%)
 
 
 ## Features

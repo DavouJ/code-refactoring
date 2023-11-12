@@ -2,21 +2,14 @@
 
 ## Improving the Horiseon website by adapting its elements
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 I WANT:
-- Semantic HTML elements can be found throughout the source code
-- HTML elements follow a logical structure independent of styling and positioning
-- Image and icon elements contain accessible alt attributes
-- Heading attributes fall in sequential order
-- Title elements contain a concise, descriptive title
+- Semantic HTML elements to be found throughout the source code
+- HTML elements to follow a logical structure independent of styling and positioning
+- Image and icon elements to contain accessible alt attributes
+- Heading attributes to fall in sequential order
+- Title elements to contain a concise, descriptive title
 
-SO THAT the codebase that follows accessibility standards
+SO THAT the codebase follows accessibility standards
 SO THAT the Horiseon site is optimized for search engines
 
 ## Table of Contents (Optional)
@@ -30,7 +23,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-Application deployed via the live GitHub URL: https://davouj.github.io/code-refactoring/ .
+Application deployed via the live GitHub URL: https://davouj.github.io/code-refactoring/starter/ .
 
 ## Usage
 
@@ -38,7 +31,7 @@ Marketing agency webpage.
 
 ## Credits
 
-Original code courtesy of EdX
+Original code courtesy of EdX.
 
 ## License
 
@@ -73,11 +66,11 @@ SOFTWARE.
 
 ## Features
 
-
+Basic webpage, alt text hover feature.
 
 ## How to Contribute
 
-
+No contributions.
 
 ## Tests
 

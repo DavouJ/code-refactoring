@@ -9,12 +9,17 @@ I WANT:
 - Heading attributes to fall in sequential order
 - Title elements to contain a concise, descriptive title
 
-SO THAT the codebase follows accessibility standards
-SO THAT the Horiseon site is optimized for search engines
+SO THAT 
+- The codebase follows accessibility standards
+- The Horiseon site is optimized for search engines
+
+The following image shows the web application's intented appearance and functionality:
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
+
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)

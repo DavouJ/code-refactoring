@@ -22,7 +22,7 @@ SO THAT
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
+## Deployment
 
 Application deployed via the live GitHub URL: https://davouj.github.io/code-refactoring/src/ .
 

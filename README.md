@@ -36,7 +36,8 @@ The following image shows the web application's appearance after the stated crit
 
 
 Selecting any of the three icons located in the navigation bar will direct the user to the matching article located on the webpage.
-![Example.](src/assets/images/davouj-github-io-code-refactoring-starter- copy.jpg)
+
+![Example.](https://github.com/DavouJ/code-refactoring/blob/main/src/assets/images/davouj-github-io-code-refactoring-starter-%20copy.jpg)
 
 ## Credits
 
@@ -70,8 +71,8 @@ SOFTWARE.
 
 ## Badges
 
-![badmath](https://img.shields.io/badge/HTML-66.8%)
-![badmath](https://img.shields.io/badge/CSS-33.2%)
+![badmath](https://img.shields.io/badge/HTML-66.8-blue)
+![badmath](https://img.shields.io/badge/CSS-33.2-orange)
 
 
 ## Features

@@ -9,15 +9,15 @@ I WANT:
 - Heading attributes to fall in sequential order
 - Title elements to contain a concise, descriptive title
 
-SO THAT 
+SO THAT:
 - The codebase follows accessibility standards
 - The Horiseon site is optimized for search engines
 
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 
-- [Installation](#installation)
+- [Deployment](#deployment)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
